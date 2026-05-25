@@ -7,6 +7,6 @@ Steps to add a file to your git repo using vs code:
 5.make changes
 6.git add .
 7.git commit -m "First commit"
-8.git push -u main
+8.git push -u origin main
 (also check for branch before commit statement)
 (if branch is not main, write git branch -M main)
