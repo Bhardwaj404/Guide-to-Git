@@ -2,7 +2,7 @@
 Steps to add a file to your git repo using vs code:  
 1.Create a git repo using gihub on your browser  
 2.open vs code  
-3.git clone link  
+3.git clone link / git remote add origin link 
 4.cd repo name  
 5.make changes  
 6.git add .  
